@@ -1,6 +1,6 @@
 {
   "name": "react-native-gesture-recognizers",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Gesture recognizer decorators for react-native",
   "main": "lib/index.js",
   "scripts": {
@@ -21,6 +21,9 @@
     "url": "https://github.com/johanneslumpe/react-native-gesture-recognizers/issues"
   },
   "homepage": "https://github.com/johanneslumpe/react-native-gesture-recognizers",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-eslint": "^7.2.2",
